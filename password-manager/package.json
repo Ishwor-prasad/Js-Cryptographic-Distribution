@@ -1,0 +1,19 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Secure password manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "password",
+    "manager",
+    "security"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
